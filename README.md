@@ -1,5 +1,5 @@
-# jquery-aec-cpf
-jQuery plugin to check if CPF field is valid
+# aec-jquery-cpf
+jQuery plugin to check if brazilian CPF field is valid
 
 ## Dependencies
 - jQuery >=2 (https://code.jquery.com/jquery-3.1.1.slim.min.js)
