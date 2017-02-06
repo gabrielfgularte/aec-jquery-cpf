@@ -1,4 +1,4 @@
-# jquery-aec-cpf
+# aec-jquery-cpf
 jQuery plugin to check if CPF field is valid
 
 ## Dependencies
